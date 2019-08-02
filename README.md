@@ -13,5 +13,5 @@ http://doaki.herokuapp.com/
 ## Members of the group:
 Édio Cerati - https://github.com/darthHunterous
 Vinicius Pereira - https://github.com/vinibobpereira 
-Caio Andrade - https://github.com/CanTulio
+Leandro Rodrigues - https://github.com/Leandrigues/
 and me.
